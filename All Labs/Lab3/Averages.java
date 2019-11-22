@@ -70,8 +70,9 @@ System.out.println("The AverageInteger of all the numbers is : " + averageIntege
 
 
 
-}
+  }
  
 }
+// This code is contributed by Sahil Ranmbail
 
  
