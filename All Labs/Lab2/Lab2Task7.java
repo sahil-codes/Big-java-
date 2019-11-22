@@ -19,7 +19,7 @@ System.out.println("The Number of Feet are : " + feet);
 
 System.out.println("The Number of Inches are :  " + inches);
 
-}
+ }
 
 }
-
+// This code is contributed by Sahil Ranmbail
