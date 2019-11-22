@@ -18,12 +18,5 @@ public class Sales{
 	
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
 }
+// This code is contributed by Sahil Ranmbail
