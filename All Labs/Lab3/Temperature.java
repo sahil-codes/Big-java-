@@ -26,9 +26,7 @@ System.out.println("The Conversion of TempFahrenheit to TempCentigrade is : " + 
 
 System.out.println("The Conversion of TempCentigrade to TempFahrenheit is : " + conversion2);
 
-}                                                                                                                                                                                                                                                                                                                                                                                                                            +
-
-
-
+  }                                                                                                                                                                                                                                                                                                                                                                                                                            +
 
 }
+// This code is contributed by Sahil Ranmbail
